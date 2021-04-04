@@ -10,4 +10,4 @@ N/A
 
 ## Do you have any questions of your own?
 
-TODO
+None at the moment
