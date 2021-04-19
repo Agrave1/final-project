@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Anthony Gravink
 
 #### Your section leader's name
 
-TODO
+
 
 #### Project title
 
-TODO
+Two Player Minesweeper
 
 ***
 
