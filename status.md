@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have done the setup for the game. Things such as creating the game board, generating the random mine positions, generating the square values based on bordering mines, and what to do for a square with a value of zero.
 
 #### What have you not done for your project yet?
 
-TODO
+I have not finished creating the player and computer turns. For the computer how to program it to play the game correctly. For the player, how to ensure th input is correct and display the correct value for the square they chose.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I have encountered a problem replacing the turn value in place of the what represents the square as not been revealed.
