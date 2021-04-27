@@ -1133,7 +1133,6 @@ if __name__ == "__main__":
     while not finished:
         game_grid()
         reminder()
-        print(solution_board)
         player_turn()
         computer_turn()
         if check_score() == True:
